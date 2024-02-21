@@ -3,6 +3,7 @@ title = "Chancen und Themen im Gaskessel Bern"
 date = "2024-02-21"
 draft = false
 pinned = false
+image = "img_2751-min.jpg"
 +++
 
 
