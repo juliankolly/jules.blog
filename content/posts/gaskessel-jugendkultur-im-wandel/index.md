@@ -3,6 +3,7 @@ title = "Gaskessel: Jugendkultur im Wandel"
 date = "2024-02-21"
 draft = false
 pinned = false
+image = "36801356-4405-4a61-883c-519ea6486963_1_201_a-min.jpeg"
 description = "Durch die Jugendunruhen (1968/69) entstand auf dem ehemaligen Gaswerkareal etwas Neuartiges - eines der ältesten Jugendkulturzentren Europas. Unter den farbigen Dächern des Gaskessels wird gelebt, diskutiert, akzeptiert, getanzt und einfache Momente werden zu etwas Besonderem gemacht. Eine Gemeinschaft ohne Ängste - Wie ein Awareness Konzept dazu beitragen kann, Minoritäten zu schützen.\n"
 +++
 {{<lead>}}
