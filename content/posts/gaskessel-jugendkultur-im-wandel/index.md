@@ -40,7 +40,7 @@ Der Gaskessel ist nicht nur ein Ort des Engagements, sondern eine Plattform, die
 
 Der Gaskessel fungiert schon seit über 50 Jahren als ein lebendiges Archiv von Generationen und als zentraler Ort für die Jugend von Bern. Vieles von dem, was hier getan wird, geschieht in Form von Freiwilligenarbeit und aus Eigeninteresse. Jede Person, die über 16 Jahre alt ist, hat die Möglichkeit, sich einzubringen und Verantwortung zu übernehmen, unabhängig von ihrem Hintergrund. In den vielen Jahren hat sich einiges geändert. Eine Sache aber blieb über all diese Jahre gleich. Der Gaskessel ist und bleibt ein Kulturzentrum, das von jungen Menschen für junge Menschen geschaffen wurde. Der Gaskessel ist von ihnen geprägt und das soll in Zukunft auch nicht anders sein. Darüber ist sich auch die Gaskessel Gemeinschaft einig. „Der Gaskessel ist immer im Wandel, was sehr wichtig ist,” sagt Xenia und auch sie denkt über ihre Zukunft im Gaskessel nach: „In zehn Jahren will ich Platz gemacht haben für eine andere junge Person. Mich beteiligen und Dasein will ich aber weiterhin.” Somit entwickelt sich die Institution auch immer weiter und neue Ideen können entstehen und umgesetzt werden.   
 
-![Farbig, motiviert, glücklich - Xenia Unseld vor ihrem Lieblingsgraffiti am Gaskessel Foto: Julian Kolly](img_2751-min.jpg)
+![Farbig, motiviert, glücklich - Xenia Unseld vor ihrem Lieblingsgraffiti am Gaskessel Foto: Alma Guggisberg](img_2751-min.jpg)
 
 Xenia ist eine äusserst aufgeschlossene Person. Sie plant Projekte, die für politische und 
 
