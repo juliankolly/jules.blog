@@ -4,11 +4,11 @@ date = "2024-02-21"
 draft = false
 pinned = false
 image = "36801356-4405-4a61-883c-519ea6486963_1_201_a-min.jpeg"
-description = "Durch die Jugendunruhen (1968/69) entstand auf dem ehemaligen Gaswerkareal etwas Neuartiges - eines der ältesten Jugendkulturzentren Europas. Unter den farbigen Dächern des Gaskessels wird gelebt, diskutiert, akzeptiert, getanzt und einfache Momente werden zu etwas Besonderem gemacht. Eine Gemeinschaft ohne Ängste - Wie ein Awareness Konzept dazu beitragen kann, Minoritäten zu schützen.\n"
+description = "Als Folge der 68er - Jugendunruhen entstand auf dem ehemaligen Gaswerkareal etwas Neuartiges, eines der ältesten Jugendkulturzentren Europas. Unter den farbigen Dächern des Gaskessels wird gelebt, diskutiert, akzeptiert, getanzt und einfache Momente werden zu etwas Besonderem gemacht. Eine Gemeinschaft ohne Ängste - Wie ein Awareness Konzept dazu beitragen kann, Minoritäten zu schützen.\n"
 +++
 {{<lead>}}
 
-Durch die Jugendunruhen (1968/69) entstand auf dem ehemaligen Gaswerkareal etwas Neuartiges - eines der ältesten Jugendkulturzentren Europas. Unter den farbigen Dächern des Gaskessels wird gelebt, diskutiert, akzeptiert, getanzt und einfache Momente werden zu etwas Besonderem gemacht. Eine Gemeinschaft ohne Ängste - Wie ein Awareness Konzept dazu beitragen kann, Minoritäten zu schützen.
+Durch die Jugendunruhen (1968/69) entstand auf dem ehemaligen Gaswerkareal etwas Neuartiges - eines der ältesten Jugendkulturzentren Europas. Unter den farbigen Dächern des Gaskessels wird gelebt, diskutiert, akzeptiert, getanzt und einfache Momente werden zu etwas Besonderem gemacht. Eine Gemeinschaft ohne Ängste. Ein Awareness Konzept trägt dazu bei, Minoritäten zu schützen und sorgt für eine offene Gemeinschaft.
 
 {{</lead>}}
 
@@ -16,11 +16,11 @@ Alma Guggisberg & Julian Kolly
 
 ![Der Gaskessel in voller Pracht: Ein Ort der Kunst und Akzeptanz. Jugendkulturzentrum Bern. https://gaskessel.ch/verein/ (15.1.24)](36801356-4405-4a61-883c-519ea6486963_1_201_a-min.jpeg)
 
-Wie ein Regenbogen. Daran erinnert der Gaskessel, wenn einem die Flaggen und Graffitis ins Auge stechen. Begrüsst durch eine herzliche Umarmung ohne jegliche Vorurteile werden wir durch den warmen und einladenden Gaskessel geführt. Xenia. Hier sind alle perdu, ein familiäres Gefühl verbreitet sich unter den Halbkugeln des ehemaligen Gaswerkareals. In der Gemeinschaftsküche steigt ein einladender Geruch in die Nase, es riecht nach Minze. Bei einem warmen Tee erzählt uns Xenia über sich und den Gaskessel. Es ist ruhig, anders als man es vom Gaskessel kennt, doch Xenias Stimme füllt den Raum und sie spricht offen über das, was andere nicht hören wollen. 
+Wie ein Regenbogen. Daran erinnert der Gaskessel, wenn einem die Flaggen und Graffitis ins Auge stechen. Begrüsst werden wir von Xenia mit einer herzliche Umarmung ohne jegliche Vorurteile danach führt sie uns durch den warmen und einladenden Gaskessel. Xenia. Hier sind alle per Du, ein familiäres Gefühl verbreitet sich unter den Halbkugeln des ehemaligen Gaswerkareals. In der Gemeinschaftsküche steigt ein einladender Geruch in die Nase, es riecht nach Minze. Bei einem warmen Tee erzählt uns Xenia über sich und den Gaskessel. Es ist ruhig, anders als man es vom Gaskessel kennt, doch Xenias Stimme füllt den Raum und sie spricht offen über das, was andere nicht hören wollen. 
 
 ### Xenia Unseld: Im Herzen der Nacht
 
-Während die meisten in ihren Träumen versinken, unterbricht Xenia Unseld die Stille und Dunkelheit der Nacht. Im Gaskessel sorgt sie für Stimmung hinter dem Lichtpult. Als FLINTA\*- Person\* stellt sie  dort ein Vorbild dar. „Ich bin auf dem Land aufgewachsen, es ist etwa so, wie ihr es euch vorstellt.” Xenia wurde in einem Umfeld aufgezogen, welches geschlechtsstereotypisch geprägt war. „Ich dachte immer: eine Frau in der Technik. "Geht das?” Im Gaskessel fand sie den Mut, ihre festgefahrenen Vorstellungen zu durchbrechen und begann, ihre eigenen Ziele zu verfolgen. Xenia strebt mit ihrer Arbeit im Gaskessel nach mehr: Ihr Ziel ist es, im Gaskessel nicht nur für Unterhaltung zu sorgen, sondern auch eine Atmosphäre zu schaffen, in der jede*r, unabhängig von Hintergrund oder Identität, einen Platz findet.
+Während die meisten Personen der Gesellschaft in ihren Träumen versinken, unterbricht Xenia Unseld die Stille und Dunkelheit der Nacht. Im Gaskessel sorgt sie für Stimmung hinter dem Lichtpult. Als FLINTA\*- Person\* stellt sie  dort als Vorbild dar. „Ich bin auf dem Land aufgewachsen, es ist etwa so, wie ihr es euch vorstellt.” Xenia wurde in einem Umfeld aufgezogen, welches geschlechtsstereotypisch geprägt war. „Ich dachte immer: eine Frau in der Technik, geht das?" Im Gaskessel fand sie den Mut, ihre festgefahrenen Vorstellungen zu durchbrechen und begann, ihre eigenen Ziele zu verfolgen. Xenia strebt mit ihrer Arbeit im Gaskessel nach mehr: Ihr Ziel ist es, im Gaskessel nicht nur für Unterhaltung zu sorgen, sondern auch eine Atmosphäre zu schaffen, in der jede*r, unabhängig von Hintergrund oder Identität, einen Platz findet.
 
 > **„Ich dachte immer: Eine Frau in der Technik. Geht das?”**
 >
